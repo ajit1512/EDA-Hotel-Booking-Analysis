@@ -1,15 +1,15 @@
 # EDA-Hotel-Booking-Analysis
-Airbnb Data Analysis Project
+# Hotel Booking Data Analysis Project
 
-About the Project
+# About the Project
 
 Welcome to the Hotel Booking Data Analysis Project! This project delves into the treasure trove of data gathered from millions of listings, comprising approximately 1,20,000 observations and 32 columns of categorical and numeric values. Our goal? To uncover valuable insights that drive Hotel Bookings success in enhancing user experiences and shaping the future of Booking.
 
-Objective
+# Objective
 
 To maximize revenue, reduce cancellations, and improve overall guest satisfaction for a hotel chain by leveraging data-driven insights.
 
-Solutions to Business Objectives
+# Solutions to Business Objectives
 
 Price Optimization:
 Given the higher average daily rate in city hotels, consider dynamic pricing strategies to maximize revenue, especially during peak seasons.
